@@ -32,12 +32,12 @@ h1 {
 }
 .input {
     width: 125px;
-    height: 75px;
+    height: 60px;
     background-color: hsl(252,100%,63%);
     border: 2px solid lightgray;
     border-radius: 5px;
     font-size: 4.5rem;
-    padding: 15px 0 0 0;
+    padding: 10px 0;
     display: flex;
     text-align: center;
     justify-content: center;
@@ -89,4 +89,12 @@ h2 {
 }
 .mass-section {
     margin-bottom: 50px;
+}
+.footer {
+    font-size: 1.2rem;
+    padding-top: 20px;
+    color: hsl(252,100%,63%);
+}
+a {
+    color: hsl(252,100%,63%);
 }
